@@ -1,0 +1,42 @@
+*{
+	background-color:white;
+	}
+.main_container{
+	margin:0 auto;
+	padding:0 auto;
+	width:80%;
+	box-sizing:border-box;
+	}
+.head{
+	text-align:center;
+	margin:35px 0;
+	}
+.head p{
+	color:#e056fd;
+	font-weight: bolder;
+	font-size:18px;
+	}
+h2{
+	color:#0d075a;
+	text-transform:capitalize;
+	font-weight:700px;
+	font-size:28px;
+	}
+.flex-container {
+    display: flex;
+    /* justify-content: space-between; */
+    margin-top: 30px;
+	}
+.flex-items{
+    width: 33.33%;
+    padding: 0 15px;
+	}
+.card-item {
+    border: 1px solid #f1f2f6;
+    text-align: center;
+    padding: 20px;
+	}
+.card-item img{
+	width:100%;
+	height:auto;
+	}
